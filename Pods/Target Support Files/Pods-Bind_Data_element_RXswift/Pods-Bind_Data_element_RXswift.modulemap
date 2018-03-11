@@ -1,0 +1,6 @@
+framework module Pods_Bind_Data_element_RXswift {
+  umbrella header "Pods-Bind_Data_element_RXswift-umbrella.h"
+
+  export *
+  module * { export * }
+}
